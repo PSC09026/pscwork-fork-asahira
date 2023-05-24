@@ -75,5 +75,16 @@ input:active {
 */
 
 
+.operator {
+  background: #87cefa;
+}
+
+.operator {
+  background:hover #339cdd;
+}
+
+.operator {
+  background:active #2c80b4;
+}
 
 
